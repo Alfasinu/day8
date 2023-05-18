@@ -1,0 +1,46 @@
+.box{
+    padding-bottom: 5px;
+    width:300px;
+    max-height: 400px;
+    background-color: rgb(255, 255, 255);
+}
+.text{
+ color: black;
+ font-size: 15px;
+}
+.container1{
+    width: 300px;
+    max-height: 80px;
+    background-color:rgb(255, 255, 255);
+    padding-bottom: 5px;
+}
+.head{
+    font-size: 15px;
+    
+}
+.text1{
+    font-size: 15px;
+}
+.maincontainer{
+    width: 300px;
+    max-height: 800px;
+    background-color: rgb(180, 171, 171);
+    justify-content: center;
+    align-items: center;
+}
+.head2{
+    font-size: 15px;
+}
+.container2{
+    display: flex;
+    background-color: white;
+    width: 300px;
+    max-height: 150px;
+}
+.head3{
+    font-size: 12px;
+   
+}
+.b1{
+    padding-top: 20px;
+}
